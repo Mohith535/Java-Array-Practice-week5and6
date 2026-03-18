@@ -1,2 +1,15 @@
-# Java-Array-Practice-week5and6
-Java Array Practice Programs covering single-dimensional arrays, multi-dimensional arrays, loops, input validation, and problem-solving exercises as part of Level 1, Level 2, and Level 3 lab practices.
+This repository contains Java Array Practice Programs covering:
+
+Level 1:
+- Voting Eligibility
+- Number Analysis
+- Multiplication Table
+- Number Storage & Sum
+
+Level 2:
+- Employee Bonus System
+- Friends Analysis
+- Largest & Second Largest Digit
+
+Level 3:
+- Digit Frequency Program
